@@ -31,4 +31,4 @@ Huge thanks to my team, whose questions, feedback, and support helped shape this
 A snapshot of the report is attached.
 Feel free to explore and share your thoughts. I would love your feedback!
 
-[Copy of Trend Decoders - Dashboard.pdf](https://github.com/user-attachments/files/20273264/Copy.of.Trend.Decoders.-.Dashboard.pdf)
+![Operational efficiency report-1_page-0001](https://github.com/user-attachments/assets/2876f05f-38ec-47b0-9bf4-7e0a8281fb08)
