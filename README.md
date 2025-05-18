@@ -31,4 +31,4 @@ Huge thanks to my team, whose questions, feedback, and support helped shape this
 A snapshot of the report is attached.
 Feel free to explore and share your thoughts. I would love your feedback!
 
-
+[Copy of Trend Decoders - Dashboard.pdf](https://github.com/user-attachments/files/20273264/Copy.of.Trend.Decoders.-.Dashboard.pdf)
