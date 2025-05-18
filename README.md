@@ -1,5 +1,5 @@
 # Manufacturing
-## Operational Efficiency and Quality Control Report
+## Operational Efficiency and Quality Control Report.
 
 📌 Project Overview
 I am excited to share my latest analytics project focused on improving operational efficiency and quality control in a manufacturing environment.
